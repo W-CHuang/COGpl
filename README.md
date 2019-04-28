@@ -1,0 +1,2 @@
+# COGpl
+COG annotation pipeline
